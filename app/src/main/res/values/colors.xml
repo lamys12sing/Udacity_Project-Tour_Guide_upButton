@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#7DBEF1</color>
+    <color name="colorPrimaryDark">#2196F3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+<!--    category color-->
+    <color name="category_text_color">#000000</color>
+    <color name="category_attraction_color">#BFE8ED</color>
+    <color name="category_hotel_color">#F3C5C1</color>
+    <color name="category_restaurant_color">#D9EFBF</color>
+    <color name="category_food_color">#C3CAEF</color>
+
+<!--    list color-->
+    <color name="list_text_name_color">#000000</color>
+</resources>
